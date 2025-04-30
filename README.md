@@ -3,7 +3,7 @@
 To kick-start my personal software portfolio, I wrote a colorful “Hello World” that greets the current Windows user and prints each letter in a random ANSI color.  
 The goal is still to validate my tool-chain, but with a touch of personality and a quick refresher on escape sequences for terminal styling.
 
-[Software Demo Video](https://youtu.be/REPLACE_WITH_REAL_LINK)
+[Software Demo Video](https://youtu.be/xYZqpT21rF0)
 
 # Development Environment
 * **OS:** Windows 11 (build 26100)  
